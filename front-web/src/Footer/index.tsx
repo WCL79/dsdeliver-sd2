@@ -16,7 +16,6 @@ function Footer() {
                 <a href="https://www.instragram.com/devsuperior.ig">
                     <Instragramicon />
                 </a>
-
             </div>
         </footer>
     )
